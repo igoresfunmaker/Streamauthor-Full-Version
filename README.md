@@ -236,3 +236,6 @@ This repository serves as the official landing page for StreamAuthor. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of StreamAuthor today!**
+
+---
+**Last updated:** 2026-09-10 06:56:00 UTC
